@@ -1,6 +1,5 @@
 import csv 
 import os
-import sys
 import uuid
 import json
 from collections import deque, defaultdict
